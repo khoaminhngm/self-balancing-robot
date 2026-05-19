@@ -1,0 +1,3 @@
+guppylang
+qiskit
+numpy
